@@ -1,0 +1,45 @@
+PS D:\coding> python nandan.py
+Enter the number of jobs3
+Enter the start time,end time,profit
+0900
+1000
+250
+0945
+1200
+550
+1130
+1500
+150
+The number of tasks and earnings available for others
+Task: 2
+Earnings: 400
+PS D:\coding> python nandan.py
+Enter the number of jobs3
+Enter the start time,end time,profit
+0900
+1030
+100
+1000
+1200
+500
+1100
+1200
+300
+The number of tasks and earnings available for others
+Task: 2
+Earnings: 400
+PS D:\coding> python nandan.py
+Enter the number of jobs3
+Enter the start time,end time,profit
+0900
+1030
+100
+1000
+1200
+100
+1100
+1200
+100
+The number of tasks and earnings available for others
+Task: 1
+Earnings: 100
